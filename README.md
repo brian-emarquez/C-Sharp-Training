@@ -36,7 +36,6 @@
   </tr>
 </table>
 
-
 ## Table of Contents
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |

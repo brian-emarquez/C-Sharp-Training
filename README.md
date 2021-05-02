@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=perl">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=c#">
   </a>
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training">

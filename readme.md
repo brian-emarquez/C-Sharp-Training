@@ -1,4 +1,4 @@
-<h2 align="center">  PC-Sharp-Training </h2>
+<h2 align="center">  C# Development | Online Training   </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
@@ -41,6 +41,7 @@
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Creador](#Creador)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
 
 
 ---

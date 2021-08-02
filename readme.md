@@ -49,6 +49,15 @@
 
 _Un recorrido por el lenguaje C#_
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/c#.jpg" />
+      <h3>Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos, funcional, genérico, reflexivo</h3>
+    </td>
+  </tr>
+</table>
+
 C# (pronunciado "See Sharp") es un lenguaje de programación moderno, orientado a objetos y con seguridad de tipos. C# permite a los desarrolladores crear muchos tipos de aplicaciones seguras y sólidas que se ejecutan en el ecosistema de .NET. C# tiene sus raíces en la familia de lenguajes C y será inmediatamente familiar para los programadores de C, C++, Java y JavaScript. Este recorrido proporciona información general sobre los componentes principales del lenguaje en C# 8 y versiones anteriores. Si desea explorar el lenguaje a través de ejemplos interactivos, pruebe la introducción a los tutoriales de C#.
 C# es un lenguaje de programación orientado a objetos y a componentes. C# proporciona construcciones de lenguaje para admitir directamente estos conceptos, lo que convierte a C# en un lenguaje natural en el que crear y usar componentes de software. Desde su origen, C# ha agregado características para admitir nuevas cargas de trabajo y prácticas de diseño de software emergentes.
 

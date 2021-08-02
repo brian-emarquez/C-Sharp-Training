@@ -4,7 +4,7 @@
 <p align="center">
   
   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/C-Sharp-Training?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/C-Sharp-Training?color=darkviolet">
   </a>
   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Stars">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training">
   </a>
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Sharp-Training/total?color=blue">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Sharp-Training/total?color=darkviolet">
   </a>
   </a>
    <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">

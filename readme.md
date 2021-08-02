@@ -24,7 +24,7 @@
    <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Sharp-Training?color=darkblue&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Sharp-Training?color=#4c2882&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Sharp-Training?style=for-the-badge">
 </P>
 

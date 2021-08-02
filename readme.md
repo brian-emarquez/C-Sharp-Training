@@ -88,6 +88,15 @@ class Hello
 
 ## Microsoft NET
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/net.jpg" />
+      <h5>Lanzamiento inicial: 13 de febrero de 2002</h5>
+    </td>
+  </tr>
+</table>
+
 <p>
 .NET es un framework de Microsoft que hace un énfasis en la transparencia de redes, con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones. Basada en ella, la empresa intenta desarrollar una estrategia horizontal que integre sus productos, desde el sistema operativo hasta las herramientas de mercado.
 </p>

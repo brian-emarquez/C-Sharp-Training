@@ -52,8 +52,8 @@ _Un recorrido por el lenguaje C#_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/c#.jpg" />
-      <h4>Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos, funcional, genérico, reflexivo</h4>
+      <img align="center" style="padding=0;" src="./images/cs.jpg" />
+      <h5>Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos, funcional, genérico, reflexivo</h5>
     </td>
   </tr>
 </table>

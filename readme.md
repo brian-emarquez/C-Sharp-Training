@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=c#">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=CSharp">
   </a>
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training">
@@ -31,17 +31,17 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/csharp.png" />
+      <img align="center" style="padding=0;" src="./images/Cshap.jpg" />
     </td>
   </tr>
 </table>
+
 
 ## Table of Contents
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Creador](#Creador)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
 
 
 ---
@@ -53,7 +53,7 @@
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/phi.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/elastic.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
@@ -61,3 +61,5 @@
         <td>G</td>
     </tr>
 </table>
+
+

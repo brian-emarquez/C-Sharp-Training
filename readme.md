@@ -42,7 +42,7 @@
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [C Sharp](#C-Sharp)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Microsoft .NET](#Microsoft-.NET)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Microsoft .NET](#Microsoft-NET)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ---
@@ -86,7 +86,7 @@ class Hello
 
 [MICROSOFT](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
-## Microsoft .NET
+## Microsoft NET
 
 <p>
 .NET es un framework de Microsoft que hace un énfasis en la transparencia de redes, con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones. Basada en ella, la empresa intenta desarrollar una estrategia horizontal que integre sus productos, desde el sistema operativo hasta las herramientas de mercado.

@@ -118,6 +118,32 @@ Los principales componentes del marco de trabajo son:
 - La biblioteca de clases base o BCL.
 - El entorno común de ejecución para lenguajes, o CLR (Common Language Runtime) por sus siglas en inglés.
 
+
+---
+
+## Books
+
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+  </tr>
+
+   <tr>
+      <td>OneDrive</td>
+      <td>JEnterprise Application Development with C# 9 and .NET 5: Enhance your C# and .NET skills by mastering the process of developing professional-grade web applications</td>
+      <td>Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani, Bhupesh Guptha Muthiyalu </td>
+      <td>Packt</td>
+      <td>978-1800209442</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EfYWr7zbWd9EnWunYLyXkZkB2RgYmEuOWH-x2M9xV_8NLg?e=ohhhEi">Java Como Programar en Java</a></td>
+  </tr>
+
+</table>
+
 ---
 ## Learning C++
 	   

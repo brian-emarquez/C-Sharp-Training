@@ -64,7 +64,8 @@ _herramientas necesarias_
 📦 Download - [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) 
 📦 Download - [Visual Studio Code](https://code.visualstudio.com/) 
 📦 Download - [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) 
-📦 Download - [Azure](https://azure.microsoft.com/es-es/) 
+⚙️ Download - [Azure](https://azure.microsoft.com/es-es/) 
+📦 Download - [Postman](https://www.postman.com/) 
 
 ---
 

@@ -70,9 +70,9 @@ _Herramientas necesarias_
 
 ⚙️ [Microsoft Azure](https://azure.microsoft.com/es-es/) - Cree, implemente y administre aplicaciones en varias nubes, en el entorno local y en el perímetro. <br>
 📦 [Visual Studio IDE](https://visualstudio.microsoft.com/es/) - Crear el futuro con Visual Studio. <br>
-📦 [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) El IDE .NET multiplataforma de JetBrains. <br>
+📦 [Jet Rider .Net IDE](https://www.jetbrains.com/rider/) El IDE .NET multiplataforma de JetBrains. <br>
 📦 [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined<br>
-📦 [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - Probar SQL Server en el entorno local o en la nube. <br>
+📦 [Sql Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - Probar SQL Server en el entorno local o en la nube. <br>
 📦 [Postman](https://www.postman.com/) - Postman API Platform <br>
 
 _Download .NET SDK_

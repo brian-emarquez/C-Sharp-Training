@@ -30,13 +30,14 @@
 
 [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
-<table align="center">
+<table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/Cshap.png" />
+      <img align="center" style="padding=0;" src="./images/c++.gif" />
     </td>
   </tr>
-</table>
+</table>	   
+
 
 ## Table of Contents
 
@@ -60,12 +61,12 @@ _herramientas necesarias_
   </tr>
 </table> -->
 
-📦 Download - [Visual Studio IDE](https://visualstudio.microsoft.com/es/)
-📦 Download - [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) 
-📦 Download - [Visual Studio Code](https://code.visualstudio.com/) 
-📦 Download - [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) 
-⚙️ Download - [Azure](https://azure.microsoft.com/es-es/) 
-📦 Download - [Postman](https://www.postman.com/) 
+⚙️ Download - [Azure](https://azure.microsoft.com/es-es/) <br>
+📦 Download - [Visual Studio IDE](https://visualstudio.microsoft.com/es/) <br>
+📦 Download - [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) <br>
+📦 Download - [Visual Studio Code](https://code.visualstudio.com/) <br>
+📦 Download - [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) <br>
+📦 Download - [Postman](https://www.postman.com/) <br>
 
 ---
 
@@ -95,13 +96,13 @@ _herramientas necesarias_
 ---
 ## Learning C++
 	   
-<table align="center" >
+<table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/c++.gif" />
+      <img align="center" style="padding=0;" src="./images/Cshap.png" />
     </td>
   </tr>
-</table>	   
+</table> 
 	   
 	   
 🏫 Link de Entrenamiento [Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️](https://github.com/BrianMarquez3/C-Plus-Plus-Course)

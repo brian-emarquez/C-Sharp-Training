@@ -1,4 +1,4 @@
-<h2 align="center">  C# Development Training   </h2>
+<h2 align="center">  C# Development Training  | .NET </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
@@ -6,27 +6,34 @@
   </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/C-Sharp-Training?color=darkviolet">
   </a>
+
   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Stars">
   </a>
+
   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Forks">
   </a>
+
+  </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=CSharp">
   </a>
+
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training">
   </a>
+
   </a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Sharp-Training/total?color=darkviolet">
   </a>
+
   </a>
    <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Sharp-Training?color=darkviolet&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Sharp-Training?style=for-the-badge">
-</P>
+</p>
 
 [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
@@ -50,7 +57,7 @@
 
 ## Intall
 
-_herramientas necesarias_
+_Herramientas necesarias_
 
 <!-- <table align="center">
   <tr>
@@ -61,12 +68,20 @@ _herramientas necesarias_
   </tr>
 </table> -->
 
-⚙️ Download - [Azure](https://azure.microsoft.com/es-es/) <br>
-📦 Download - [Visual Studio IDE](https://visualstudio.microsoft.com/es/) <br>
-📦 Download - [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) <br>
-📦 Download - [Visual Studio Code](https://code.visualstudio.com/) <br>
-📦 Download - [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) <br>
-📦 Download - [Postman](https://www.postman.com/) <br>
+⚙️ [Microsoft Azure](https://azure.microsoft.com/es-es/) - Cree, implemente y administre aplicaciones en varias nubes, en el entorno local y en el perímetro. <br>
+📦 [Visual Studio IDE](https://visualstudio.microsoft.com/es/) - Crear el futuro con Visual Studio. <br>
+📦 [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) El IDE .NET multiplataforma de JetBrains. <br>
+📦 [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined<br>
+📦 [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - Probar SQL Server en el entorno local o en la nube. <br>
+📦 [Postman](https://www.postman.com/) - Postman API Platform <br>
+
+_Download .NET SDK_
+
+📦 [Download .NET](https://dotnet.microsoft.com/en-us/download) - Free. Cross-platform. Open source. <br>
+📦 [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) - Download .NET 7.0 <br>
+📦 [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - Download .NET 6.0 <br>
+📦 [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) - Download .NET 5.0 <br>
+📦 [.NET 3.0](https://dotnet.microsoft.com/en-us/download/dotnet/3.0) - Download .NET 3.0 <br>
 
 ---
 

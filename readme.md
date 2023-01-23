@@ -103,7 +103,7 @@ _Download .NET SDK_
       <td>Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani, Bhupesh Guptha Muthiyalu </td>
       <td>Packt</td>
       <td>978-1800209442</td>
-      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EfYWr7zbWd9EnWunYLyXkZkB2RgYmEuOWH-x2M9xV_8NLg?e=ohhhEi">Java Como Programar en Java</a></td>
+      <td><></a></td>
   </tr>
 
 </table>

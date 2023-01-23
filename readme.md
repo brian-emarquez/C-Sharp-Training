@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Sharp-Training?style=for-the-badge">
 </P>
 
+[A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -43,23 +45,20 @@
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [C Sharp](#C-Sharp)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Microsoft .NET](#Microsoft-NET)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
-
 ---
 
 ## Intall
 
 _herramientas necesarias_
 
-[MICROSOFT](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/cs1.jpg" />
       <h5>Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos, funcional, genérico, reflexivo</h5>
     </td>
   </tr>
-</table>
+</table> -->
 
 📦 Download - [Visual Studio IDE](https://visualstudio.microsoft.com/es/)
 📦 Download - [JET RIDER .NET IDE](https://www.jetbrains.com/rider/) 

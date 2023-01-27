@@ -19,7 +19,7 @@ namespace Basico
 
         private void button1_Click(object sender, EventArgs e)
         {
-           label10.Text= "estas haciendo demos";
+           label10.Text= "estas haciendo pruebas";
         }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\bin\Debug\net6.0-windows\Basico.exe
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\bin\Debug\net6.0-windows\Basico.deps.json
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\bin\Debug\net6.0-windows\Basico.runtimeconfig.json
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\bin\Debug\net6.0-windows\Basico.dll
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\bin\Debug\net6.0-windows\Basico.pdb
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.csproj.AssemblyReference.cache
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.Form1.resources
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.csproj.GenerateResource.cache
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.AssemblyInfoInputs.cache
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.AssemblyInfo.cs
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.csproj.CoreCompileInputs.cache
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.dll
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\refint\Basico.dll
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.pdb
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\Basico.genruntimeconfig.cache
+C:\Users\bmarquez\Documents\C-Sharp-Training\csharp-basic\Basico\Basico\obj\Debug\net6.0-windows\ref\Basico.dll

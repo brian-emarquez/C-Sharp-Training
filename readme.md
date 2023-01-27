@@ -52,21 +52,12 @@
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [C Sharp](#C-Sharp)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Microsoft .NET](#Microsoft-NET)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
+|  003   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [C#-basic](#c#-basic)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 ---
 
 ## Intall
 
 _Herramientas necesarias_
-
-<!-- <table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/cs1.jpg" />
-      <h5>Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos, funcional, genérico, reflexivo</h5>
-    </td>
-  </tr>
-</table> -->
 
 ⚙️ [Microsoft Azure](https://azure.microsoft.com/es-es/) - Cree, implemente y administre aplicaciones en varias nubes, en el entorno local y en el perímetro. <br>
 📦 [Visual Studio IDE](https://visualstudio.microsoft.com/es/) - Crear el futuro con Visual Studio. <br>
@@ -78,10 +69,13 @@ _Herramientas necesarias_
 _Download .NET SDK_
 
 📦 [Download .NET](https://dotnet.microsoft.com/en-us/download) - Free. Cross-platform. Open source. <br>
-📦 [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) - Download .NET 7.0 <br>
-📦 [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - Download .NET 6.0 <br>
-📦 [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) - Download .NET 5.0 <br>
 📦 [.NET 3.0](https://dotnet.microsoft.com/en-us/download/dotnet/3.0) - Download .NET 3.0 <br>
+📦 [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) - Download .NET 5.0 <br>
+📦 [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - Download .NET 6.0 <br>
+📦 [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) - Download .NET 7.0 <br>
+
+---
+
 
 ---
 

@@ -132,7 +132,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 ## Licence 
 
-Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/C-Sharp-Training/blob/main/LICENCE)
 
 
 ---

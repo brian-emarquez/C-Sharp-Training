@@ -1,0 +1,49 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.vspscc
+*.vssscc
+
+# NuGet
+*.nupkg
+.nuget/packages/
+
+# Visual Studio cache and generated files
+*.VC.db
+*.VC.opendb
+*.pdb
+*.cache
+
+# Rider caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# Publish output
+publish/
+
+# Chocolatey
+choco-pkgs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Allow file in root named 'readme.md' and repo-specific docs

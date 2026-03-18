@@ -107,6 +107,23 @@ git clone https://github.com/BrianMarquez3/C-Sharp-Training.git
 
 ---
 
+## 7. Estructura del Proyecto
+
+El repositorio incluye las siguientes soluciones .NET WinForms, cada una con ejercicios de aprendizaje por nivel:
+
+- `csharp-basic/Basico/Basico.sln`: proyectos de fundamentos de C#.
+- `csharp-basic-numeros/Basico/Basico-numeros.sln`: manejo de cadenas, variables y operaciones numéricas.
+- `csharp-basic-testBox/Basico/Basico-boolean.sln`: ejemplos con tipos booleanos y lógica de interacción.
+
+### Recomendaciones de uso
+
+1. Abrir la solución correspondiente en Visual Studio.
+2. Restaurar paquetes NuGet.
+3. Compilar en modo `Debug` (o `Release`).
+4. Ejecutar y observar los mensajes en la interfaz.
+
+---
+
 <table align="center">
   <tr>
     <td colspan="3">A</td>

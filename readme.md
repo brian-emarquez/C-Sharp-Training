@@ -2,155 +2,125 @@
 <!-- https://shields.io/ -->
 
 <p align="center">
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/C-Sharp-Training?color=darkviolet">
-  </a>
-
-  <a href="https://github.com/BrianMarquez3/C-Sharp-Training/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Stars">
-  </a>
-
-  <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Forks">
-  </a>
-
-  </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=CSharp">
-  </a>
-
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training">
-  </a>
-
-  </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Sharp-Training/total?color=darkviolet">
-  </a>
-
-  </a>
-   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a><br>
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Sharp-Training?color=darkviolet&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Sharp-Training?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/BrianMarquez3/C-Sharp-Training?color=darkviolet" alt="Top language" />
+  <img src="https://img.shields.io/github/stars/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Sharp-Training.svg?style=flat" alt="Forks" />
+  <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Sharp-Training?color=blue&label=Version&logo=CSharp" alt="Version" />
+  <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training" alt="Code size" />
+  <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Sharp-Training/total?color=darkviolet" alt="Downloads" />
+  <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="Platform Windows" />
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Sharp-Training?color=darkviolet&style=for-the-badge" alt="Last commit" />
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Sharp-Training?style=for-the-badge" alt="Languages count" />
 </p>
 
-[A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+<p align="center">
+  Proyecto de entrenamiento en C# con ejemplos prácticos, ejercicios y recursos que cubren .NET, interfaces gráficas y patrones recomendados.
+</p>
 
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/c++.gif" />
-    </td>
-  </tr>
-</table>	   
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">A tour of the C# language</a>
+</p>
 
-
-## Table of Contents
-
-| Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [C Sharp](#C-Sharp)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [Microsoft .NET](#Microsoft-NET)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  003   |:heavy_check_mark: |<img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px"> | [C#-basic](#c#-basic)   |     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
----
-
-## Intall
-
-_Herramientas necesarias_
-
-⚙️ [Microsoft Azure](https://azure.microsoft.com/es-es/) - Cree, implemente y administre aplicaciones en varias nubes, en el entorno local y en el perímetro. <br>
-📦 [Visual Studio IDE](https://visualstudio.microsoft.com/es/) - Crear el futuro con Visual Studio. <br>
-📦 [Jet Rider .Net IDE](https://www.jetbrains.com/rider/) El IDE .NET multiplataforma de JetBrains. <br>
-📦 [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined<br>
-📦 [Sql Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - Probar SQL Server en el entorno local o en la nube. <br>
-📦 [Postman](https://www.postman.com/) - Postman API Platform <br>
-
-_Download .NET SDK_
-
-📦 [Download .NET](https://dotnet.microsoft.com/en-us/download) - Free. Cross-platform. Open source. <br>
-📦 [.NET 3.0](https://dotnet.microsoft.com/en-us/download/dotnet/3.0) - Download .NET 3.0 <br>
-📦 [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) - Download .NET 5.0 <br>
-📦 [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - Download .NET 6.0 <br>
-📦 [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) - Download .NET 7.0 <br>
-
----
-
-
----
-
-## Books
-
-<table>
-  <tr>
-      <td>Server</td>
-      <td>Name</td>
-      <td>Authors</td>
-      <td>Editorial</td>
-      <td>ISBN</td>
-      <td>Link</td>
-  </tr>
-
-   <tr>
-      <td>OneDrive</td>
-      <td>JEnterprise Application Development with C# 9 and .NET 5: Enhance your C# and .NET skills by mastering the process of developing professional-grade web applications</td>
-      <td>Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani, Bhupesh Guptha Muthiyalu </td>
-      <td>Packt</td>
-      <td>978-1800209442</td>
-      <td><></a></td>
-  </tr>
-
-</table>
-
----
-## Learning C++
-	   
 <table align="center">
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/Cshap.png" />
+    <td align="center" style="padding:0; width:50%;">
+      <img align="center" style="padding:0;" src="./images/c++.gif" alt="C# training gif" />
     </td>
   </tr>
-</table> 
-	   
-	   
-🏫 Link de Entrenamiento [Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️](https://github.com/BrianMarquez3/C-Plus-Plus-Course)
+</table>
 
+## Contenido
 
----
-
-## Indice TIOBE
-
-<p>El índice de la comunidad de programación TIOBE es un indicador de la popularidad de los lenguajes de programación. 
-El índice se actualiza una vez al mes. Las calificaciones se basan en la cantidad de ingenieros calificados en todo el mundo, 
-cursos y proveedores externos. Los motores de búsqueda populares como Google, Bing, Yahoo !, Wikipedia, Amazon, YouTube y 
-Baidu se utilizan para calcular las calificaciones. 
-Es importante tener en cuenta que el índice TIOBE no se trata del mejor lenguaje de 
-programación o del lenguaje en el que se han escrito la mayoría de las líneas de código .</p>
-
-[Indice TIOBE](https://www.tiobe.com/tiobe-index/)
-
-## Licence 
-
-Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
-
+| #   | Estado | Imagen | Tema | Enlace |
+|----|--------|--------|------|--------|
+| 001 | ✅ | <img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px" alt="gif" /> | C# | [C Sharp](#c-sharp) |
+| 002 | ✅ | <img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px" alt="gif" /> | Microsoft .NET | [Microsoft .NET](#microsoft-net) |
+| 003 | ✅ | <img src="https://media.giphy.com/media/duFk6vWKCGWhnqdU1f/giphy.gif" width="25px" alt="gif" /> | C# Básico | [C#-basic](#c-basic) |
 
 ---
 
- <table align="center">
-    <tr>
-      <td colspan="3">A</td>
-        <td>B</td>
-      </tr>
-      <tr>
-        <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/elastic.gif" /></td>
-        <td>E</td>
-      </tr>
-      <tr>
-      <td colspan="3">F</td>
-        <td>G</td>
-    </tr>
+## 1. Introducción
+
+Este repositorio está diseñado para estudiantes y desarrolladores que desean:
+
+- Aprender C# y .NET con ejemplos claros y actualizados.
+- Practicar con aplicaciones de Windows Forms en .NET 6.
+- Integrar buenas prácticas de programación, estructura de proyecto y uso de paquetes.
+
+---
+
+## 2. Requisitos de Desarrollo
+
+- Windows 10/11
+- .NET 6 SDK o superior
+- Visual Studio 2022/2023 o JetBrains Rider
+- Visual Studio Code (opcional)
+- Postman (opcional)
+- SQL Server (opcional, para proyectos de datos)
+
+---
+
+## 3. Guía de Instalación
+
+1. Clonar repositorio:
+
+```bash
+git clone https://github.com/BrianMarquez3/C-Sharp-Training.git
+```
+
+2. Abrir solución en Visual Studio:
+
+- `csharp-basic/Basico/Basico.sln`
+- `csharp-basic-numeros/Basico/Basico-numeros.sln`
+- `csharp-basic-testBox/Basico/Basico-boolean.sln`
+
+3. Restaurar paquetes NuGet y compilar.
+4. Ejecutar el proyecto y explorar formularios.
+
+---
+
+## 4. Recursos
+
+### Libros recomendados
+
+| Autor(es) | Título | Editorial | ISBN | Enlace |
+|-----------|--------|-----------|------|--------|
+| Ravindra Akella, Arun Kumar Tamirisa, Suneel Kumar Kunani, Bhupesh Guptha Muthiyalu | JEnterprise Application Development with C# 9 and .NET 5 | Packt | 978-1800209442 | - |
+
+### Cursos
+
+- [Learn C++ Object Oriented Programming - 0 to Hero](https://github.com/BrianMarquez3/C-Plus-Plus-Course)
+
+---
+
+## 5. Métricas y Referencias
+
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+
+> El índice TIOBE mide popularidad, no calidad. Los resultados se calculan a partir de consultas en buscadores y datos públicos.
+
+---
+
+## 6. Licencia
+
+- Licencia del proyecto: [LICENCE](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
+
+---
+
+<table align="center">
+  <tr>
+    <td colspan="3">A</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td colspan="2"><img align="center" style="padding:0;" src="./images/elastic.gif" alt="Elastic gif" /></td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <td colspan="3">F</td>
+    <td>G</td>
+  </tr>
 </table>
 
 
